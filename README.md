@@ -9,7 +9,6 @@
 [Autores](#autores)  
 
 # Portifolio Pessoal
-![image](imgs/page.png)
 
 ## Descrição
 
