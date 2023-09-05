@@ -1,20 +1,21 @@
 ## Ìndicie
 
-[Portifolio Pessoal](#portifolio-pessoal)
-[Descrição](#descrição)
-[Introdução](#introdução)
-[Funcionalidade](#funcionalidade)
-[Tecnologias Utilizadas](#tecnologias-utilizadas)
-[Fontes Consultadas](#fontes-consultadas)
-[Autores](#autores)
+[Portifolio Pessoal](#portifolio-pessoal)  
+[Descrição](#descrição)  
+[Introdução](#introdução)  
+[Funcionalidade](#funcionalidade)  
+[Tecnologias Utilizadas](#tecnologias-utilizadas)  
+[Fontes Consultadas](#fontes-consultadas)  
+[Autores](#autores)  
 
 # Portifolio Pessoal
+![image](imgs/page.png)
 
 ## Descrição
 
 ## Introdução
 
-## Funcionalidade
+## :hammer: Funcionalidade
 
 
 ## Tecnologias Utilizadas
