@@ -10,7 +10,7 @@
 
 # Portifolio Pessoal
 
-![Capa do projeto](imgs/page.PNG)
+![Capa do projeto](imgs/page.png)  
 
 ## Descrição
 
