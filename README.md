@@ -10,6 +10,8 @@
 
 # Portifolio Pessoal
 
+![Capa do projeto](imgs/page.PNG)
+
 ## Descrição
 
 ## Introdução
