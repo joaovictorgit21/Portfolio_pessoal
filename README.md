@@ -12,22 +12,25 @@
 
 ![Capa do projeto](imgs/page.png)  
 
-## Descrição
+## 📚 Descrição
 
-## Introdução
+##  Introdução
 
 ## :hammer: Funcionalidade
 
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
-| Linguagens |  📘 Tipo    |
+| Linguagens |  📘 Tipo     |
 |------------|------------|
 | 📄  HTML    |  Marcação  |
 |  🖌️  CSS     |  Estilização  |
 | 🤖Javascript |   Script   |
 |📖 Bootstrap |  Framework  |
+| ![Icon Git](imgs/icons8-git-50.png) Git  |    |
+| ![Icon GitHub](imgs/icons8-github-24.png) GitHub|  |
+| ![Icon VSCode](imgs/icons8-visual-studio-30.png) VSCode||
 
-## Fontes Consultadas
+## 🌐 Fontes Consultadas
 
 ## Autores
