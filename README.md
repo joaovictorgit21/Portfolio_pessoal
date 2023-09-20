@@ -25,7 +25,7 @@ Repositório que serve para uma melhor conhencimento e manipulação do Bootstra
 
 Neste projeto aprendemos a usar elementos do README enquanto linguagem de marcação, organização e aprofundamento em commit, além do uso e implementação de Bootstrap.
 
-![Site Bootstrap](img/printpagebootstrap.png)
+![Site Bootstrap](imgs/printpagebootstrap.png)
 
 ## :hammer: Funcionalidade
 Pode servir para a criação do portifólio profissional para a expozição de projetos pessoais.
